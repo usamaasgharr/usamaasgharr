@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usama Asghar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
+- 👀 I’m a React Js developer
+- 🌱 I’m currently learning Node js.
 - 📫 You can reach me on usama.asghar005@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaasgharr&theme=tokyonight)
